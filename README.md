@@ -5,10 +5,12 @@ Crie um recurso data faktory
 
 
 Acesse-o e Crie um pipeline
+
 ![image](https://github.com/user-attachments/assets/0ccbf079-aae5-4c2f-bfce-19862a3df363)
 
 
 Faça a configuração do integration runetime
+
 ![image](https://github.com/user-attachments/assets/f6b86383-66f6-497a-b713-91559b025192)
 
 
